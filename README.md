@@ -1,10 +1,18 @@
 ## Contenus de CM et de TD
 
-Cette page répertorie les contenus de CM et TD pour les enseignements de méthdologie à la faculté de psychologie de Nantes.
+Cette page répertorie les contenus de CM et TD pour les enseignements de méthodologie à la faculté de psychologie de Nantes. Ces contenus concernent :
 
-### Markdown
+- Méthodologie L2S3
+- Méthodologie L2S4
+- Psychométrie L3S5
+- Conception de recherche L3S5
+- Conduite de recherche L3S6
+- Méthodologie M1S7
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Méthodologie L2S3
+
+[Cliquer ici pour accéder au plan et aux documents](https://hackmd.io/@gRd-k8tlRqqNnz8dLGKZrg/H12QNLi1w)
 
 ```markdown
 Syntax highlighted code block
