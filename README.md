@@ -2,13 +2,14 @@
 
 Cette page répertorie les contenus de CM et TD pour les enseignements de méthodologie à la faculté de psychologie de Nantes. Ces contenus concernent :
 
+```
 - Méthodologie L2S3
 - Méthodologie L2S4
 - Psychométrie L3S5
 - Conception de recherche L3S5
 - Conduite de recherche L3S6
 - Méthodologie M1S7
-
+```
 
 ### Méthodologie L2S3
 
