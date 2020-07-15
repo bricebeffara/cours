@@ -13,7 +13,7 @@ Cette page répertorie les contenus de CM et TD pour les enseignements de métho
 
 ### Méthodologie L2S3
 
-[Cliquer ici pour accéder au plan et aux documents](https://hackmd.io/@gRd-k8tlRqqNnz8dLGKZrg/H12QNLi1w)
+<a href="https://hackmd.io/@gRd-k8tlRqqNnz8dLGKZrg/H12QNLi1w" target="_blank">Cliquer ici pour accéder au plan et aux documents</a>
 
 ```markdown
 Syntax highlighted code block
