@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Méthodologie pour la psychologie
+layout: default
+github:
+  is_project_page: false
+
