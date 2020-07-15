@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Contenus de CM et de TD
 
-You can use the [editor on GitHub](https://github.com/bricebeffara/cours.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cette page répertorie les contenus de CM et TD pour les enseignements de méthdologie à la faculté de psychologie de Nantes.
 
 ### Markdown
 
